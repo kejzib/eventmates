@@ -1,4 +1,4 @@
-# eventmates
+# EventMates
 Event Management Applications
 
 Distribution of Main Roles and Tasks:
