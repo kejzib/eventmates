@@ -17,10 +17,10 @@ Our team proposes the development of a comprehensive event management applicatio
 
 
 The main objectives of the application are to:
-	Allow users to create and customize events, add attendees, and set reminders for key dates and details.
-	Provide a centralized platform for event-related communication and collaboration.
-	Offer analytics and reporting tools to help users track event success and identify areas for improvement.
-	Allow for customization of event formats, including branding and design elements.
+1.	Allow users to create and customize events, add attendees, and set reminders for key dates and details.
+2.	Provide a centralized platform for event-related communication and collaboration.
+3.Offer analytics and reporting tools to help users track event success and identify areas for improvement.
+4.	Allow for customization of event formats, including branding and design elements.
 
 
 
